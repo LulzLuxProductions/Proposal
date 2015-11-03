@@ -5,31 +5,31 @@ in order to promote effective fundraising events for the east bay radical commun
   
   wants:
       establish an open source curriculum (hereinafter, "curriculum") for the many skills/services involved in facilitating an effective fundraising event:
-          sound 
-          lights
-          security
-          web design
-          poster/flyer design
-          video streaming
-          promotion
-          maintenance
-          stage/set design
-          locksmithing :P
-          catering/bartending (future plans)
-          etc
-      teach curriculum to members of production collective & share with netizens abroad
-      has teh lulz
+          sound, 
+          lights,
+          security,
+          web design,
+          poster/flyer design,
+          video streaming,
+          promotion,
+          maintenance,
+          stage/set design,
+          locksmithing :P,
+          catering/bartending -future plan,
+          etc.;
+      teach curriculum to members of production collective & share with netizens abroad;
+      has teh lulz.
       
   needs:
-      have appropriate space designated @ the omni
-      become omni member collective
-      receive operational support from the omni (cleaning supplies, infrastructure improvements, lightbulbs, etc)
-      fiscal sponsorship from the omni oakland commons
-      has teh lulz
+      have appropriate space designated @ the omni;
+      become omni member collective;
+      receive operational support from the omni (cleaning supplies, infrastructure improvements, lightbulbs, etc);
+      fiscal sponsorship from the omni oakland commons;
+      has teh lulz.
       
   offerings:
-      provide above stated skills/services to the omni in exchange for needs
-      lulz
+      provide above stated skills/services to the omni in exchange for above stated needs;
+      teh lulz
       
   caveat:
       teachers/facilitators may accept, but not ask for, tips from event coordinators
